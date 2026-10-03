@@ -1,3 +1,4 @@
 # GitDemo
-Practicing Github 
-I will be practising github today
+Practicing Github
+<br>
+I will be practicing github today
